@@ -27,12 +27,12 @@
 
 
 <!-- section - intro -->
-<!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
+<!--#### -->
 
 # Electrical Engineer & Researcher!
 
 
-Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Ilias Papastratis 
 
 <!-- section - intro -->
 
@@ -61,28 +61,13 @@ Python . PyTorch Tensorflow
 <!-- section - job details -->
 
 ## On the job .. 💯
-<!--
-> Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
 
-> Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
+> Research Assistant - [**Visual Computing Lab**](https://vcl.iti.gr/)  ⭐
 
-> Research & Development Engineer Intern - [**ISRO**](https://www.isro.gov.in)
 
--->
 <!-- section - job details -->
+- Collaborator of the [MedicalZoo](https://github.com/black0017/MedicalZooPytorch) 
 
-
-<!-- section - interests -->
-
-## My Absolute Favorites .. 💖
-
-🦄 I love _CODING_
-
-👨‍💻 I _BUILD_ resilient apps & services
-
-📰 Reading & writing _TECH BLOGS_
-
-🍕 _HACKATHONS_ & problem solving
 
 <!-- section - interests -->
 
@@ -111,12 +96,12 @@ Python . PyTorch Tensorflow
 <!-- section - blogs -->
 
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=iliasprc&show_icons=true&hide_border=true)
 
 
 ## Thank you ! 🙏
 
-Thanks for reading about me. You can connect with me on ..
+Thanks for reading about me. You can connect with me on :
 
 <!-- section - social media icons -->
 
