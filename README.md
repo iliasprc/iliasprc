@@ -5,20 +5,20 @@
 
 <!-- icons  -->
 
-[1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
-[4.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-[5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
-[6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
+[1.1]: https://github.com/iliasprc/iliasprc/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/iliasprc/iliasprc/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/oiliasprc/iliasprc/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+[4.1]: https://github.com/iliasprc/iliasprc/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
+[5.1]: https://github.com/iliasprc/iliasprc/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
+[6.1]: https://github.com/iliasprc/iliasprc/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding)
 
 <!-- links to my social media accounts -->
 
-[1]: https://www.linkedin.com/in/ombharatiya
-[2]: https://www.github.com/ombharatiya
-[3]: https://www.twitter.com/ombharatiya
-[4]: http://www.medium.com/@ombharatiya
-[5]: https://stackoverflow.com/users/8454203/om-bharatiya
+[1]: https://www.linkedin.com/in/ilias-papastratis-16819412a/
+[2]: https://github.com/iliasprc
+[3]: ''
+[4]: ''
+[5]: ''
 [6]: http://dev.to/ombharatiya
 
 <!-- Don't remove this --- https://github.com/ombharatiya -->
@@ -38,12 +38,12 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+[![linkedin iliasprc][1.1]][1]
+[![github iliasprc][2.1]][2]
+[![twitter iliasprc][3.1]][3]
+[![medium iliasprc][4.1]][4]
+[![stackoverflow iliasprc][5.1]][5]
+[![dev to iliasprc][6.1]][6]
 
 <!-- section - social media icons -->
 
@@ -90,7 +90,7 @@ Python . JavaScript . C++ . Java
 <!-- section - interests -->
 
 <!-- section - blogs -->
-
+<!--
 ## Check my blogs & posts .. ✨
 
 - [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
@@ -110,38 +110,25 @@ Python . JavaScript . C++ . Java
 - [Heros of Chandrayaan-2 Launch Mission ISRO](https://www.linkedin.com/posts/activity-6559739007759151104-jbOu)
 
 - [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1)
-
+-->
 <!-- section - blogs -->
 
-## How To Make a Similar Home Page for your GitHub ? 😎
-
-1. Fork this repo.
-
-2. Edit the README.md file with your info.
-
-3. Rename your repo to your github username in settings tab.(for example my username is ombharatiya)
-
-4. You made it!
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
-
-More details are on this blog link: [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
 
 
 
 
-## Thank you and Namaste! 🙏
+## Thank you ! 🙏
 
 Thanks for reading about me. You can connect with me on ..
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
+[![linkedin iliasprc][1.1]][1]
+[![github iliasprc][2.1]][2]
+[![twitter iliasprc][3.1]][3]
+[![medium iliasprc][4.1]][4]
+[![stackoverflow iliasprc][5.1]][5]
+[![dev to iliasprc][6.1]][6]
 
 <!-- section - social media icons -->
 
