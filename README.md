@@ -37,14 +37,14 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 <!-- section - intro -->
 
 <!-- section - social media icons -->
-
+<!--
 [![linkedin iliasprc][1.1]][1]
 [![github iliasprc][2.1]][2]
 [![twitter iliasprc][3.1]][3]
 [![medium iliasprc][4.1]][4]
 [![stackoverflow iliasprc][5.1]][5]
 [![dev to iliasprc][6.1]][6]
-
+-->
 <!-- section - social media icons -->
 
  ---
@@ -125,10 +125,10 @@ Thanks for reading about me. You can connect with me on ..
 
 [![linkedin iliasprc][1.1]][1]
 [![github iliasprc][2.1]][2]
-[![twitter iliasprc][3.1]][3]
+<!--[![twitter iliasprc][3.1]][3]
 [![medium iliasprc][4.1]][4]
 [![stackoverflow iliasprc][5.1]][5]
-[![dev to iliasprc][6.1]][6]
+[![dev to iliasprc][6.1]][6]-->
 
 <!-- section - social media icons -->
 
