@@ -53,8 +53,10 @@ Hi, I'm Ilias Papastratis
 
 ## I work on .. 💻
 
-
-Python . PyTorch Tensorflow
+## Programming Skills
+- Python 
+- PyTorch, Tensorflow frameworks
+- C++/C
 
 <!-- section - skills -->
 
@@ -66,7 +68,9 @@ Python . PyTorch Tensorflow
 
 
 <!-- section - job details -->
-- Collaborator of the [MedicalZoo](https://github.com/black0017/MedicalZooPytorch) 
+
+### Projects
+- Collaborator of the [MedicalZoo](https://github.com/black0017/MedicalZooPytorch) library
 
 
 <!-- section - interests -->
