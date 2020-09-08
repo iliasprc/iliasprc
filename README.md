@@ -1,4 +1,4 @@
-<!-- Don't remove this --- https://github.com/ombharatiya -->
+<!-- Don't remove this --- https://github.com/iliasprc -->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -21,7 +21,7 @@
 [5]: ''
 [6]: http://dev.to/ombharatiya
 
-<!-- Don't remove this --- https://github.com/ombharatiya -->
+<!-- Don't remove this --- https://github.com/iliasprc -->
 
 
 
@@ -29,7 +29,7 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# ❤ to Build - Software Engineer & Enthusiast!
+# Electrical Engineer & Researcher!
 
 
 Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
@@ -53,25 +53,22 @@ Hi, I'm Om — a **software engineer** at **HashedIn** building some real stuff 
 
 ## I work on .. 💻
 
-Django . React.js . Microservices . Docker . AWS Services
 
-Postgresql . MongoDB . Redis . DynamoDB
-
-Python . JavaScript . C++ . Java
+Python . PyTorch Tensorflow
 
 <!-- section - skills -->
 
 <!-- section - job details -->
 
 ## On the job .. 💯
-
+<!--
 > Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
 
 > Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
 
 > Research & Development Engineer Intern - [**ISRO**](https://www.isro.gov.in)
 
-
+-->
 <!-- section - job details -->
 
 
@@ -133,5 +130,5 @@ Thanks for reading about me. You can connect with me on ..
 <!-- section - social media icons -->
 
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=iliasprc.visitor-badge">
  <p/>
