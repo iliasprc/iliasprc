@@ -34,6 +34,7 @@
 
 Hi, I'm Ilias Papastratis 
 
+CV --- > https://github.com/iliasprc/iliasprc/blob/master/assets/icons/cv_Ilias_Papastratis.pdf
 <!-- section - intro -->
 
 <!-- section - social media icons -->
