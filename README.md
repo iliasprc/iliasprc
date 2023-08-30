@@ -14,7 +14,7 @@
 
 <!-- links to my social media accounts -->
 
-[1]: https://www.linkedin.com/in/ilias-papastratis-16819412a/
+[1]: [Linkedin](https://www.linkedin.com/in/ilias-papastratis/)
 [2]: https://github.com/iliasprc
 [3]: ''
 [4]: ''
@@ -32,9 +32,15 @@
 # Electrical Engineer & Researcher!
 
 
-Hi, I'm Ilias Papastratis 
+Hello, I'm Ilias,  an experienced Machine Learning and Deep Learning Engineer with a strong background in computer vision, MLOps, and software engineering. As a machine learning engineer, I have a passion for developing intelligent systems that can learn and adapt to complex real-world challenges. With a background in both electrical engineering and computer science, I bring a unique perspective to my work that combines technical expertise with a deep understanding of machine learning algorithms and techniques.
 
-CV --- > https://github.com/iliasprc/iliasprc/blob/master/assets/icons/Ilias%20PapastratisCV.pdf.pdf
+Over the course of my career, I have worked on a variety of machine learning projects, ranging from image and video recognition to natural language processing and robotics. I am skilled in a variety of programming languages, including Python, C++ and Java and have extensive experience with deep learning frameworks such as PyTorch and TensorFlow. I am also well-versed in software engineering principles, including version control, unit testing and software design patterns.
+
+In addition to my technical expertise, I am also committed to staying up-to-date with the latest developments in the field of machine learning. I have published several papers in scientific journals and am always eager to learn new techniques and approaches to solving complex problems.
+
+If you're looking for a skilled and dedicated machine learning engineer to help tackle your next project, please don't hesitate to reach out!
+
+ [CV](https://github.com/iliasprc/iliasprc/blob/master/assets/icons/ILIAS_PAPASTRATIS_CV.pdf)
 <!-- section - intro -->
 
 <!-- section - social media icons -->
